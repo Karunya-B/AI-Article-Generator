@@ -127,6 +127,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 LOGIN_URL = '/login'
 
+SIGNUP_URL = '/signup'
+
  
 
 
